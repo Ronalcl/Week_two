@@ -1,0 +1,23 @@
+.red {
+    background-color: red;
+    height: 100px;
+}
+.blue2 {
+    background-color: blue;
+    height: 30px;
+    font-size: 60px;
+}
+.red2 {
+    /*background-color: red;*/
+    height: 10px;
+}
+.blue {
+    /*background-color;*/
+    font-size: 20px;
+    height: 250px;
+    width: 190px;
+}
+.green{
+    background-color: green;
+    height: 100px;
+}
